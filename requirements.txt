@@ -45,8 +45,6 @@ pyparsing==2.4.7
 pypiwin32==223
 python-constraint==1.4.0
 pyttsx3==2.90
-PyWavelets==1.1.1
-pywin32==300
 requests==2.25.1
 rich==9.10.0
 scipy==1.6.3
