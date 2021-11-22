@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: flask-test-app
-        image: capstonedocker/flasknew
+        image: capstonet9.azurecr.io/myflask
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
